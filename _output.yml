@@ -4,6 +4,6 @@ bookdown::gitbook:
   config:
     toc:
       before: |
-        <li><a href="./">UNA INTRODUCCION AL ANALISIS DE DATOS EN PSICOLOGIA USANDO PYTHON</a></li>
+        <li><a href="./">Introducción al Análisis de Datos en Psicología usando Python</a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
