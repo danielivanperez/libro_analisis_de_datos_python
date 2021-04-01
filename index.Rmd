@@ -1,9 +1,11 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "Una Introduccion al Analisis de Datos usando Python"
+author: "Daniel Perez Zapata"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Down the rabbit-hole
+# Prefacio {-}
+
+Bienvenido a "Una Introduccion al Analisis de Datos usando Python". 
 
