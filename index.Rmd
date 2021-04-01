@@ -1,5 +1,5 @@
 ---
-title: "Introducción al Análisis de Datos en Psicología usando R"
+title: "Introducción al Análisis de Datos en Psicología usando Python"
 author: "Daniel Pérez Zapata"
 date: "`r Sys.Date()`"
 output: pdf_document
