@@ -1,2 +1,2 @@
-the-pool-of-tears
-a-caucus-race-and-a-long-tale
+python-aplicado-al-análisis-de-datos
+aprendiendo-lo-básico
